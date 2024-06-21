@@ -1,5 +1,7 @@
 Rencana todolist Husni
 - php CI
  = Mvc
+  -angular
  = oop
-- fundamental data stacture
+- java script
+ = js
