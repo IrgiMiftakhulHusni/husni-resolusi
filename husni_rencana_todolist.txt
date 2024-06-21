@@ -1,5 +1,8 @@
 Rencana todolist Husni
 - php CI
  = Mvc
+  - Models
+  - View
+  - Controller
  = oop
 - fundamental data stacture
