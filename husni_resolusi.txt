@@ -2,3 +2,5 @@ Husni Resolusi
 - Belajar GitHub
 - Membuat laporan akhir
 - Mengirim Laporan bulan ke 5
+- dom pdf
+- mencari info tentang bpjs
