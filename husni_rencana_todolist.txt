@@ -6,3 +6,6 @@ Rencana todolist Husni
   - Controller
  = oop
 - fundamental data stacture
+- Java script
+ = vue
+ = react
