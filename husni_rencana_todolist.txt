@@ -2,3 +2,4 @@ Rencana todolist Husni
 - php CI
  = Mvc
  = oop
+- fundamental data stacture
